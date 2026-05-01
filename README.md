@@ -15,3 +15,6 @@ This suggests that prioritizing high-value, high-frequency customers is key, and
 ## Tools
 - SQL (DuckDB)
 - Python (pandas, matplotlib)
+
+
+Data source: Kaggle Online Retail Dataset
